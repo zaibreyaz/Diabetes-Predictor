@@ -14,3 +14,7 @@ To run flask application
 python app.py
 ```
 
+After running Flask application, open this url in browser
+```
+http://127.0.0.1:5000/
+```
